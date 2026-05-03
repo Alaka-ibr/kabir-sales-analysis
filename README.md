@@ -130,7 +130,7 @@ This gap may indicate operational disruption, absence, or data reporting issues,
 
 ### Additional Analysis Tables
 
-![Additional Analysis](images/additional_analysis.png)
+![Additional Analysis](images/additionally%20analysis.png)
 
 > Includes calculated metrics such as SUMIF and COUNTIF used in the analysis.
 
@@ -183,4 +183,4 @@ The analysis reveals that while Kabir Retail Solutions maintains strong revenue 
 
 ---
 
-*Analysis completed using Microsoft Excel. All formulas used: SUM, SUMIF, COUNTIF, MIN, MAX, AVERAGE, COUNT, COUNTA.*
+***Analysis completed using Microsoft Excel. All formulas used: SUM, SUMIF, COUNTIF, MIN, MAX, AVERAGE, COUNT, COUNTA.***
