@@ -122,7 +122,7 @@ This gap may indicate operational disruption, absence, or data reporting issues,
 
 ### Yearly Summary Table
 
-![Yearly Summary](images/Screenshot 2026-05-01 113252.png)
+![Representative Table].(images/Screenshot 2026-05-01 113252.png)
 
 > Highlights performance trends and fluctuations across 2010–2012.
 
