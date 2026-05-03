@@ -111,10 +111,10 @@ This gap may indicate operational disruption, absence, or data reporting issues,
 ---
 
 ## Visual Evidence (MANDATORY)
-(images)
-### Representative Performance Table
-
 ![Representative Table](images/Screenshot%202026-05-01%20113225.png)
+### Representative Performance Table
+![Representative Table]()
+
 
 > Shows total revenue and quantity contribution by each sales representative.
 
@@ -122,7 +122,7 @@ This gap may indicate operational disruption, absence, or data reporting issues,
 
 ### Yearly Summary Table
 
-![Yearly Summary](images/yearly_summary.png)
+![Yearly Summary](images/Screenshot 2026-05-01 113252.png)
 
 > Highlights performance trends and fluctuations across 2010–2012.
 
