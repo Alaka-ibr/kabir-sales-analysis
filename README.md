@@ -130,7 +130,7 @@ This gap may indicate operational disruption, absence, or data reporting issues,
 
 ### Additional Analysis Tables
 
-![Additional Analysis](images/additionally%20analysis.png)
+![Additional Analysis](images/additional%20analysis.png)
 
 > Includes calculated metrics such as SUMIF and COUNTIF used in the analysis.
 
